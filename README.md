@@ -1,7 +1,7 @@
 # arduino-wifly-php-thingspeak
 
 
-:bulb: A quick and dirty shortcut to update your ThingSpeak channel using Wifly + Arduino
+:bulb: A quick and dirty (noobish) shortcut to update your ThingSpeak channel using Wifly + Arduino using HTTP requests
 ***
 
 ### Requirements
